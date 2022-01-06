@@ -1,3 +1,4 @@
 # Electron.js repository
 
-This is my first repository created in english language, so please checkout everything in this repository, this repository is specially created to everyone know my skills, know how I can deal with english and to create notes o
+This is my first repository created in english language, so please checkout everything in this repository, this repository is specially created to everyone know my skills, know how I can deal with english and how I deal with my notes that are only available in portuguese, those notes are of my [electron.js course in Udemy](https://www.udemy.com/course/master-electron/)  
+I made this repository to my organization, to make safe my notes in github, to sometimes help people in the questions of the course, sometimes help my friends that are making the course with me and to make easily to people who wants to hire me evaluate myself and make sure that I know what I said that I know. So please enjoy my repository and check my portfolio and the projects folder that are everything that I already made in this course. 😁❤
